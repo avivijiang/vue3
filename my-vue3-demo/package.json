@@ -1,11 +1,14 @@
 {
   "name": "my-vue3-demo",
   "version": "0.1.0",
-  "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://git.xiaojukeji.com/huweiy/vue3-demo.git"
   },
   "dependencies": {
     "core-js": "^3.6.5",
